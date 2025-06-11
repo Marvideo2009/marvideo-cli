@@ -1,0 +1,16 @@
+{
+  "name": "mar-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "mar": "./bin/mar.js"
+  },
+  "packageManager": "pnpm@10.11.1",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "inquirer": "^12.6.3",
+    "ora": "^8.2.0"
+  }
+}
