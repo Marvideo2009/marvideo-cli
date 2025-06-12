@@ -127,7 +127,7 @@ pnpm approve-builds
 
 ## Licence
 
-Projet open-source sous licence MIT.
+[Projet open-source sous licence MIT.](LICENSE)
 
 ---
 
