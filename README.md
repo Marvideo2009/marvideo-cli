@@ -1,4 +1,4 @@
-# mar.js — CLI Modulaire par The Marvideoverse
+# mar.js — CLI Modulaire par Marvideo
 
 **mar.js** est un outil CLI personnalisé, extensible avec des plugins, pour générer, analyser et déployer des projets JavaScript/TypeScript de façon rapide et stylée.
 
